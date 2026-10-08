@@ -13,3 +13,14 @@
 #     if n >= 100 and n <= 999 and n % 4 == 0:
 #         sum = sum + n
 # print(sum)
+
+# n = int(input())
+# min = 99999999999999
+# e = 0
+# for i in range(n):
+#     a = int(input())
+#     e = a % 10
+#     if e == 6:
+#         if a < min:
+#             min = a
+# print(min)
